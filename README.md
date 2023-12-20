@@ -7,4 +7,4 @@ an interesting site with affiliate links.
 
 ## Infrastructure setup
 
-
+test
